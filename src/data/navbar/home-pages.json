@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "text": "Нүүр хуудас",
+    "link": "/",
+
+    "mega_menu": true,
+    "promo": "/assets/images/no-placeholder/desktop-menu-promo.png"
+  },
+
+  {
+    "id": 2,
+    "text": "Бүх бараа",
+    "link": "/products",
+
+    "mega_menu": false
+  },
+  {
+    "id": 3,
+    "text": "Дэлгүүрийн байршил",
+    "link": "/branch",
+
+    "mega_menu": false,
+    "promo": false
+  }
+]
